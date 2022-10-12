@@ -18,7 +18,7 @@ Tarea 2 : construir una tarjeta para para la web
 
 mi proceso
 construido con
-HTML 
+HTML <br>
 Propiedades personalizadas de CSS
 caja flexible
 Que aprendí
@@ -26,23 +26,3 @@ Que aprendí
 
 Para ver cómo puede agregar fragmentos de código, consulte a continuación:
 
-<h1>Some HTML code I'm proud of</h1>
-.proud-of-this-css {
-  color: papayawhip;
-}
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-Si desea obtener más ayuda para escribir las rebajas, le recomendamos que consulte la Guía de rebajas para obtener más información.
-
-desarrollo continuo
-Use esta sección para delinear las áreas en las que desea continuar enfocándose en proyectos futuros. Estos podrían ser conceptos con los que todavía no te sientes completamente cómodo o técnicas que te resultaron útiles y que deseas refinar y perfeccionar.
-
-Recursos útiles
-Ejemplo de recurso 1 : esto me ayudó por la razón XYZ. Me gustó mucho este patrón y lo usaré en el futuro.
-Ejemplo de recurso 2 : este es un artículo increíble que finalmente me ayudó a comprender XYZ. Se lo recomendaría a cualquiera que aún esté aprendiendo este concepto.
-Autor
-Sitio web - Agregue su nombre aquí
-Twitter - @tunombredeusuario
-Expresiones de gratitud
-Aquí es donde puedes dar una propina a cualquier persona que te haya ayudado en este proyecto. Quizás trabajó en un equipo o se inspiró en la solución de otra persona. Este es el lugar perfecto para darles algo de crédito.
