@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&family=Roboto:wght@100;300;400;500&family=Space+Mono&family=Work+Sans:wght@100&display=swap');
+*{
+    box-sizing: border-box;
+   background-color: #120026;
+}
+body{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+.imagen img{
+    width: 100%;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    margin-left: 5px;
+    text-align: center;
+}
+.title h1{
+    max-width: 350px;
+    color: white;
+    font-weight: 700;
+    left: 500px;
+}
+.title p{
+    color: white;
+    font-weight: 200;
+}
+.lista1 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    height: 50px;
+    margin-right: 50px;
+}
+.lista2 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: gray;
+    margin-right: 55px;
+}
+.lista3 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    height: 50px;
+    margin-right: 50px;
+}
+.lista4 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: gray;
+    margin-right: 55px;
+}
+.lista5 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    height: 50px;
+    margin-right: 50px;
+}
+.lista6 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: gray;
+    margin-right: 55px;
+}
+
+@media (min-width: 1200px){
+    *{
+        background-color: #000029;
+    }
+    
+    .contenedor {
+
+        display: flex;
+        flex-direction: row-reverse;
+        margin-block-start: 400px;
+    
+        
+    } 
+
+    .centro {
+        display: flex;
+        flex-direction: column;
+        margin-left: 25px;
+        margin-inline-start: 100px;
+        text-align: center;
+        justify-content: center;
+        
+    }
+
+    h1 {
+        text-align: center;
+        justify-content: center;
+        
+
+    }
+
+    .title,.centro  h1 p {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        
+
+    }
+
+    .listas {
+        display: flex;
+        flex-direction: row;
+        
+        
+    }
+
+
+    
+}
