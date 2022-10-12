@@ -1,22 +1,21 @@
 # Make-It-Real---Stats-preview-card-component
 
-![vista1](https://user-images.githubusercontent.com/115027137/195466339-7622f2ed-f378-4719-84c3-3c61f47c866a.png)
-
-![vista2](https://user-images.githubusercontent.com/115027137/195466485-de86a727-3dc7-44fb-bc0f-fea785b6d156.png)
-
-El reto
-Los usuarios deben ser capaces de:
-
-Tarea 1
-Tarea 2
-Captura de pantalla
 
 
-Agregue una captura de pantalla de su solución. La forma más fácil de hacer esto es usar Firefox para ver su proyecto, hacer clic derecho en la página y seleccionar "Tomar una captura de pantalla". Puede elegir una captura de pantalla de altura completa o una recortada según la longitud de la página. Si es muy largo, sería mejor recortarlo.
 
-Alternativamente, puede usar una herramienta como FireShot para tomar la captura de pantalla. FireShot tiene una opción gratuita, por lo que no es necesario que la compre.
+construir este componente de la tarjeta y lograr que se parezca lo más posible al diseño.
 
-Luego recorta/optimiza/edita tu imagen como quieras, agrégala a tu proyecto y actualiza la ruta del archivo en la imagen de arriba.
+Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
+
+tarea 1 : construir una tarjeta para mobail
+Tarea 2 : construir una tarjeta para para la web
+
+
+![vista1](https://user-images.githubusercontent.com/115027137/195467464-418c41ca-15bf-4729-a967-d84cd9f5758f.png)
+
+
+
+
 
 mi proceso
 construido con
