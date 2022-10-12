@@ -10,9 +10,8 @@ Puedes usar cualquier herramienta que te guste para ayudarte a completar el desa
 tarea 1 : construir una tarjeta para mobail
 Tarea 2 : construir una tarjeta para para la web
 
-
-![vista1](https://user-images.githubusercontent.com/115027137/195467464-418c41ca-15bf-4729-a967-d84cd9f5758f.png)
-
+![vista2](https://user-images.githubusercontent.com/115027137/195467603-3b3fd117-2a8d-49cc-a15f-a13b89a60597.png)
+![vista3](https://user-images.githubusercontent.com/115027137/195467615-3e8803a6-b6de-4ebf-994f-2a01dd7d3ce0.png)
 
 
 
