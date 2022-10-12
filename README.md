@@ -18,12 +18,11 @@ Tarea 2 : construir una tarjeta para para la web
 
 mi proceso
 construido con
-Marcado HTML5 semántico
+HTML 
 Propiedades personalizadas de CSS
 caja flexible
-Flujo de trabajo centrado en dispositivos móviles
 Que aprendí
-Use esta sección para recapitular algunos de sus principales aprendizajes mientras trabajaba en este proyecto. Escribirlos y proporcionar ejemplos de código de las áreas que desea resaltar es una excelente manera de reforzar su propio conocimiento.
+
 
 Para ver cómo puede agregar fragmentos de código, consulte a continuación:
 
