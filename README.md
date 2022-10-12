@@ -8,6 +8,7 @@ construir este componente de la tarjeta y lograr que se parezca lo más posible 
 Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
 
 tarea 1 : construir una tarjeta para mobail
+
 Tarea 2 : construir una tarjeta para para la web
 
 ![vista2](https://user-images.githubusercontent.com/115027137/195467603-3b3fd117-2a8d-49cc-a15f-a13b89a60597.png)
@@ -16,12 +17,15 @@ Tarea 2 : construir una tarjeta para para la web
 
 
 
-mi proceso
-construido con
-HTML <br>
-Propiedades personalizadas de CSS
-caja flexible
-Que aprendí
+mi proceso:
+
+- construido conHTML
+
+- Propiedades personalizadas de CSS
+
+- caja flexible
+
+Aprendí
 
 
 Para ver cómo puede agregar fragmentos de código, consulte a continuación:
