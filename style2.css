@@ -10,9 +10,11 @@ body{
 .imagen{
     display: flex;
     justify-content: center;
+    filter: opacity(0.6);
 }
 .imagen img{
     width: 100%;
+    
 }
 .title{
     display: flex;
