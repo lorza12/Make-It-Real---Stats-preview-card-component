@@ -5,7 +5,7 @@
 
 construir este componente de la tarjeta y lograr que se parezca lo más posible al diseño.
 
-- tarea 1 : construir una tarjeta para mobail
+- tarea 1 : construir una tarjeta para mobile
 
 - Tarea 2 : construir una tarjeta para para la web
 
@@ -22,11 +22,24 @@ mi proceso:
 
 - Aplicamos propiedades de css con mas alcance 
 
-
-Aprendí
-
-<h1>Some HTML code I'm proud of</h1>
+cree archivo .HTML para estrucuturar bien mi pryecto, despues cree un archivo .CSS para definir mejor mi diseño y encapsualando tambien la estructura para la previsualicacion tanto en mobiñe con para la web
 
 
-Para ver cómo puede agregar fragmentos de código, consulte a continuación:
+construido con:
+
+- Marcado HTML5 semántico
+- Propiedades personalizadas de CSS
+- caja flexible
+
+
+Aprendi: 
+
+- usar unas etiquetas y herramientas para CSS y HTML
+
+desarrollo continuo
+
+Es necesario que adquirir muchas mas metodologias en la elaboracion del cogido para que se me sea mas facil crear un codigo mas sencillo y asi evitar muchas mas confuciones 
+
+
+
 
