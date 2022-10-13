@@ -16,7 +16,7 @@ construir este componente de la tarjeta y lograr que se parezca lo más posible 
 
 
 
-mi proceso:
+<h1>mi proceso:</h1>
 
 - construido con HTML usando nuevas estructuras investigadas en el camino 
 
