@@ -85,7 +85,6 @@ body{
     }
     
     .contenedor {
-
         display: flex;
         flex-direction: row-reverse;
         margin-block-start: 400px;
