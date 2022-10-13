@@ -83,7 +83,11 @@ body{
     *{
         background-color: #000029;
     }
-    
+    .imagen {
+
+        filter: opacity(0.5);
+
+        }
     .contenedor {
         display: flex;
         flex-direction: row-reverse;
