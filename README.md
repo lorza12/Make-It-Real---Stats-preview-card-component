@@ -36,20 +36,11 @@ Aprendi:
 
 - usar nuevas etiquetas y herramientas para CSS y HTML 
 
-desarrollo continuo
+<desarrollo continuo>
 
 Es necesario adquirir muchas mas metodologias en la elaboracion del cogido para que se me sea mas facil crear un codigo mas sencillo y asi evitar muchas mas confuciones
 
-.img {
-  background-size: cover;
-  background-blend-mode: overlay;
-}
 
-#container {
-  display: flex;
-  flex-direction: row-reverse;
-  align-content: stretch;
-}
 
 
 
