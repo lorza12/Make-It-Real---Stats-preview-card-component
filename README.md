@@ -18,11 +18,11 @@ construir este componente de la tarjeta y lograr que se parezca lo más posible 
 
 mi proceso:
 
-- construido conHTML usando nuevas estructuras investigadas en el camino 
+- construido con HTML usando nuevas estructuras investigadas en el camino 
 
 - Aplicamos propiedades de css con mas alcance 
 
-cree archivo .HTML para estrucuturar bien mi pryecto, despues cree un archivo .CSS para definir mejor mi diseño y encapsualando tambien la estructura para la previsualicacion tanto en mobiñe con para la web
+cree archivo .HTML para estrucuturar bien mi pryecto, despues cree un archivo .CSS para definir mejor mi diseño y encapsualando tambien la estructura para la previsualicacion tanto en mobile como para la web
 
 
 construido con:
@@ -34,11 +34,22 @@ construido con:
 
 Aprendi: 
 
-- usar unas etiquetas y herramientas para CSS y HTML
+- usar nuevas etiquetas y herramientas para CSS y HTML 
 
 desarrollo continuo
 
-Es necesario que adquirir muchas mas metodologias en la elaboracion del cogido para que se me sea mas facil crear un codigo mas sencillo y asi evitar muchas mas confuciones 
+Es necesario adquirir muchas mas metodologias en la elaboracion del cogido para que se me sea mas facil crear un codigo mas sencillo y asi evitar muchas mas confuciones
+
+.img {
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+#container {
+  display: flex;
+  flex-direction: row-reverse;
+  align-content: stretch;
+}
 
 
 
