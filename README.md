@@ -11,8 +11,9 @@ tarea 1 : construir una tarjeta para mobail
 
 Tarea 2 : construir una tarjeta para para la web
 
-![vista2](https://user-images.githubusercontent.com/115027137/195467603-3b3fd117-2a8d-49cc-a15f-a13b89a60597.png)
-![vista3](https://user-images.githubusercontent.com/115027137/195467615-3e8803a6-b6de-4ebf-994f-2a01dd7d3ce0.png)
+![git1](https://user-images.githubusercontent.com/115027137/195473365-a328902a-9c93-4e6f-a314-58566f55f87c.png)
+
+![git2](https://user-images.githubusercontent.com/115027137/195473383-780ae111-7530-4476-8c11-fe62d7e8b8a7.png)
 
 
 
