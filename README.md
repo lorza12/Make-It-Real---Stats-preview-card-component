@@ -16,7 +16,7 @@ construir este componente de la tarjeta y lograr que se parezca lo más posible 
 
 
 
-<h1>mi proceso:</h1>
+<h1>mi proceso</h1>
 
 - construido con HTML usando nuevas estructuras investigadas en el camino 
 
@@ -25,18 +25,17 @@ construir este componente de la tarjeta y lograr que se parezca lo más posible 
 cree archivo .HTML para estrucuturar bien mi pryecto, despues cree un archivo .CSS para definir mejor mi diseño y encapsualando tambien la estructura para la previsualicacion tanto en mobile como para la web
 
 
-construido con:
+<h1>construido con</h1>
 
 - Marcado HTML5 semántico
 - Propiedades personalizadas de CSS
 - caja flexible
 
-
-Aprendi: 
+ <h1>Aprendi</h1>
 
 - usar nuevas etiquetas y herramientas para CSS y HTML 
 
->desarrollo continuo<
+ <h1>desarrollo continuo</h1>
 
 Es necesario adquirir muchas mas metodologias en la elaboracion del cogido para que se me sea mas facil crear un codigo mas sencillo y asi evitar muchas mas confuciones
 
