@@ -13,8 +13,7 @@ construir este componente de la tarjeta y lograr que se parezca lo más posible 
 ![tarj](https://user-images.githubusercontent.com/115027137/195997193-743bc386-647d-42a2-b6db-c872da9e6e6b.png)
 
 
-![tarj2](https://user-images.githubusercontent.com/115027137/195997265-f8537fd5-1154-41de-9ab8-4f49f6079375.png)
-
+![tarj2](https://user-images.githubusercontent.com/115027137/195997351-a003f40a-3250-4eef-a942-349ff003ef94.png)
 
 
 
